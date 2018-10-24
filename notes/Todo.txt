@@ -1,0 +1,39 @@
+v	Get input movement
+v	Set player smooth movement horizontal
+v	Set player smooth movement vertical
+v	Collision
+v	Smooth camera movement
+v	Sprite animations
+v	Double jumping
+
+------------------------------------------
+
+v	Refactor into actual states and implement scripts
+v	GUI with timer
+
+------------------------------------------
+
+v	Environment
+v	Collisions with scenery
+v	Enemy sprites (base enemy)
+v	Enemy movement + gravity
+v	Enemy respawn in stronger enemy
+
+------------------------------------------
+
+v	Enemy kill player
+v	First gun (pistol)
+v	Shoot first gun
+v	Player kill enemy
+v	Enemy kill player
+v	Dramatic death effect in slo-mo
+
+------------------------------------------
+
+.	Pickups - crate
+.	2nd gun (double pistol)
+.	3rd gun (machine gun)
+.	4th gun (shotgun)
+.	Increase difficulty upon pickup of crate
+.	Add big enemy
+.	Add floating enemy
